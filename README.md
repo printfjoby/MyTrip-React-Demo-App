@@ -7,7 +7,7 @@ A sample website built using React and Material Design<br/>
 
 1. Clone this repository.
 
-2. run `npm start` from the root directory.
+2. Run `npm start` from the root directory.
 
 3. Application would be loaded on `http://localhost:3000/`
 
@@ -31,11 +31,14 @@ A sample website built using React and Material Design<br/>
     ### Explore Page
     ![Explore Page](/images/6.jpg)
 
-    ### Contact Page
+    ### Gallery Page
     ![Contact Page](/images/7.jpg)
 
+    ### Contact Page
+    ![Contact Page](/images/8.jpg)
+
     ### Footer
-    ![Footer](/images/8.jpg)
+    ![Footer](/images/9.jpg)
 
     ### Moblie View
-    ![Mobile View](/images/9.jpg)
+    ![Mobile View](/images/10.jpg)
