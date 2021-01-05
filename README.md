@@ -7,9 +7,11 @@ A sample website built using React and Material Design<br/>
 
 1. Clone this repository.
 
+2. Run `npm install`.
+
 2. Run `npm start` from the root directory.
 
-3. Application would be loaded on `http://localhost:3000/`
+3. The server will start on `http://localhost:3000/`.
 
     ## Application Screenshots
 
